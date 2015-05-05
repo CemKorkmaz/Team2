@@ -11,6 +11,6 @@ public class ITProjekt implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-		
+		// Das ist ein Kommentar.
 	}
 }
